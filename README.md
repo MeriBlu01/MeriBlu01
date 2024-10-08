@@ -21,9 +21,23 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="auto"/>
 </p>
-
-
 <br/>
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="width: 48%;">
+    <p>
+       ### ¡Take a look to my certifications!
+    </p>
+  </div>
+
+  <div style="width: 48%;">
+    <p>
+      This is the content for the second column. You can similarly write text, insert images, or add any other HTML content.  
+      Markdown elements like **bold**, *italic*, and [links](https://example.com) should also work.
+    </p>
+  </div>
+
+</div>
 
 <img align="left" alt="Python" width="30px" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" style="max-width: 100%;"/>
 <img align="left" alt="Python" width="30px" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" width="70" height="auto"/>

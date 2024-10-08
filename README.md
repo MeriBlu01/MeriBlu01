@@ -6,7 +6,8 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 
 I have hands-on experience in several programming languages, including Python, C, JavaScript, HTML, and CSS.
 
-
+<p align="left">
+	<a href="<link>"><img alt="LinkedIn icon" title="My LinkedIn Profile" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png"/></a></p>
 
 ### What I Do:
   + Software Development Engineer in Test (SDET): I have a strong foundation in test automation, writing efficient test scripts using tools like Cypress and Gherkin for Behavior-Driven Development (BDD). My goal is to ensure software reliability through thorough testing processes.

@@ -11,6 +11,8 @@ I have hands-on experience in several programming languages, including Python, C
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" height="auto"/>
+          
 <img align="left" alt="Python" width="30px" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" style="max-width: 100%;"/>
 <img align="left" alt="Python" width="30px" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" width="70" height="auto"/>
 <p align="left">

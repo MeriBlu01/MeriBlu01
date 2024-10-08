@@ -8,17 +8,17 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 
 ### 🧰 Languages & Tools
  
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="auto" style="margin-right: 30px;"/> &nbsp;&nbsp;&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"  width="50" height="auto" style="padding-right: 10px;"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="50" height="auto"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  width="50" height="auto"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"  width="50" height="auto"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"  width="50" height="auto"/>
- <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/cypress-icon-1024x1022-1sbqakuv.png" width="50" height="auto"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"  width="50" height="auto"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"  width="50" height="auto"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="auto"/>
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"  width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"  width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"  width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/cypress-icon-1024x1022-1sbqakuv.png" width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"  width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"  width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="auto"/>
 </p>
 

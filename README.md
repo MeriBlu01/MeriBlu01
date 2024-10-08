@@ -22,8 +22,10 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="auto"/>
 </p>
 
+---
+
 ### 🎖️ Take a look to my certifications!
-<p align="center">
+<p align="left">
  <a href="https://portfolio-america-lagos.s3.amazonaws.com/Certifications/AWS+Certified+Cloud+Practitioner+certificate.pdf" target="_blank">
     <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/digital-certificate.png" alt="My AWS Cloud Practitioner Certification" width="70" height="auto"/>
  </a> &nbsp;&nbsp;

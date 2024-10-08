@@ -22,6 +22,7 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="auto"/>
 </p>
 <br/>
+
 ### 🎖️ Take a look to my certifications!</h2>
 
 

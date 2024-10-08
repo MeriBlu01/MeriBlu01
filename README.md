@@ -6,12 +6,11 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 
 I have hands-on experience in several programming languages, including Python, C, JavaScript, HTML, and CSS.
 
-[![My LinkedIn Profile](https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png)](www.linkedin.com/in/america-lagos-hernández-576a10206)
-
 <p align="left">
-	<a href="www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
-  <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="70" height="auto"/>
-</a></p>
+  <a href="https://www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
+    <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="70" height="auto"/>
+  </a>
+</p>
 
 	
 
@@ -29,6 +28,7 @@ I have hands-on experience in several programming languages, including Python, C
 
 > I'm currently seeking opportunities as an SDET or Data Analyst, where I can apply my skills to enhance software quality or extract meaningful insights from data. Explore my repositories to see how I bring technical knowledge to life through code!
 <!--
+[![My LinkedIn Profile](https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png)](www.linkedin.com/in/america-lagos-hernández-576a10206)
 <a href="www.linkedin.com/in/america-lagos-hernández-576a10206"><img alt="LinkedIn icon" title="My LinkedIn Profile" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png"/></a></p>
 Here are some ideas to get you started:
 

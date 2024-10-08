@@ -25,9 +25,7 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 48%;">
-    <p>
-       ### ¡Take a look to my certifications!
-    </p>
+   <h1 style="color:blue;">This is a heading</h1>
   </div>
 
   <div style="width: 48%;">

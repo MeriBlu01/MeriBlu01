@@ -21,11 +21,19 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="auto"/>
 </p>
-<br/>
 
-### 🎖️ Take a look to my certifications!</h2>
-
-
+### 🎖️ Take a look to my certifications!
+<p align="center">
+ <a href="https://portfolio-america-lagos.s3.amazonaws.com/Certifications/AWS+Certified+Cloud+Practitioner+certificate.pdf" target="_blank">
+    <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/digital-certificate.png" alt="My AWS Cloud Practitioner Certification" width="70" height="auto"/>
+ </a> &nbsp;&nbsp;
+ <a href="https://portfolio-america-lagos.s3.amazonaws.com/Certifications/54e5627f-db79-483c-9af2-64f166fe81fe_Certificate_22_CTFL_02677_USA.pdf" target="_blank">
+    <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/software.png" alt="My Certified Tester, Foundational Level - Certification" width="70" height="auto"/>
+ </a> &nbsp;&nbsp;
+ <a href="https://portfolio-america-lagos.s3.amazonaws.com/Certifications/Coursera+HY5CE6J4998W.pdf" target="_blank">
+    <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/excel.png" alt="My Excel Certification" width="70" height="auto"/>
+ </a> &nbsp;&nbsp;
+</p>
 
 
 ### What I Do:

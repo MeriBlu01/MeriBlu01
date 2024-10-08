@@ -4,10 +4,12 @@
 
 Hi, I'm a Mechatronic Engineer with a passion for software development, cloud computing, and data analysis. Also, I'm a Certified Tester and AWS Cloud Practitioner, I combine my engineering background with software testing and cloud expertise to deliver high-quality, scalable solutions. All coding projects included in my GitHub portfolio are built from ideation and planning to design and execution to be applied to solving real-life problems (well, not all of them, just those that can be solved with code).
 
-> I have hands-on experience in several programming languages, including Python, C, JavaScript, HTML, and CSS.
->
-> <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" alt="Python" width="50" height="auto"/>
+I have hands-on experience in several programming languages, including Python, C, JavaScript, HTML, and CSS.
 
+### Languages & Tools
+<img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" alt="Python" width="50" height="auto"/>
+
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"/>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
@@ -15,7 +17,7 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
   </a>
 </p>
 
-	
+---	
 
 ### What I Do:
   + Software Development Engineer in Test (SDET): I have a strong foundation in test automation, writing efficient test scripts using tools like Cypress and Gherkin for Behavior-Driven Development (BDD). My goal is to ensure software reliability through thorough testing processes.

@@ -11,8 +11,7 @@ I have hands-on experience in several programming languages, including Python, C
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"/>
 
-
-
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"/>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">

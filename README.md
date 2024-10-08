@@ -40,7 +40,7 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 ---
 
 ### ✨ My Key Skills:
-  + Test Automation & QA: Proficient in manual and automated testing processes.
+  + **Test Automation & QA:** Proficient in manual and automated testing processes.
   + Programming: Python, C, JavaScript, HTML, CSS.
   + Cloud Computing: AWS infrastructure management and cloud solutions. My AWS certification demonstrates my ability to design and implement cloud-based architectures, optimizing systems for both performance and cost.
   + Data Analysis: Data wrangling, reporting, and visualization.

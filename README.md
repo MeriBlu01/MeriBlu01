@@ -4,6 +4,7 @@
 
 Hi, I'm a Mechatronic Engineer with a passion for software development, cloud computing, and data analysis. Also, I'm a Certified Tester and AWS Cloud Practitioner, I combine my engineering background with software testing and cloud expertise to deliver high-quality, scalable solutions. All coding projects included in my GitHub portfolio are built from ideation and planning to design and execution to be applied to solving real-life problems (well, not all of them, just those that can be solved with code).
 
+--
 
 ### 🧰 Languages & Tools
  
@@ -21,9 +22,7 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" height="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="auto"/>
 
-
-          
-          
+<br/>
 
 <img align="left" alt="Python" width="30px" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" style="max-width: 100%;"/>
 <img align="left" alt="Python" width="30px" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" width="70" height="auto"/>

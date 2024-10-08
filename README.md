@@ -16,13 +16,13 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"  width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"  width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/cypress-icon-1024x1022-1sbqakuv.png" width="50" height="auto"/> &nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"  width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"  width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="auto"/>
 </p>
 
-___
 
 ### 🎖️ Take a look to my certifications!
 <p align="left">
@@ -37,20 +37,19 @@ ___
  </a> &nbsp;&nbsp;
 </p>
 
+---
 
-### What I Do:
-  + Software Development Engineer in Test (SDET): I have a strong foundation in test automation, writing efficient test scripts using tools like Cypress and Gherkin for Behavior-Driven Development (BDD). My goal is to ensure software reliability through thorough testing processes.
-  + Data Analysis: With a keen eye for detail, I am proficient in using Python for data manipulation, visualization, and reporting. My experience includes building data pipelines and leveraging cloud services like AWS for data storage and processing.
-  + Cloud Solutions: My AWS certification demonstrates my ability to design and implement cloud-based architectures, optimizing systems for both performance and cost.
-
-### My Key Skills:
+### ✨ My Key Skills:
   + Test Automation & QA: Proficient in manual and automated testing processes.
   + Programming: Python, C, JavaScript, HTML, CSS.
-  + Cloud Computing: AWS infrastructure management and cloud solutions.
+  + Cloud Computing: AWS infrastructure management and cloud solutions. My AWS certification demonstrates my ability to design and implement cloud-based architectures, optimizing systems for both performance and cost.
   + Data Analysis: Data wrangling, reporting, and visualization.
   + CI/CD: Familiar with tools like GitHub Actions to streamline development workflows.
 
+
 > I'm currently seeking opportunities as an SDET or Data Analyst, where I can apply my skills to enhance software quality or extract meaningful insights from data. Explore my repositories to see how I bring technical knowledge to life through code!
+>
+> 📫 e-mail: 240296.alh@gmail.com
 <!--
 [![My LinkedIn Profile](https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png)](www.linkedin.com/in/america-lagos-hernández-576a10206)
 <a href="www.linkedin.com/in/america-lagos-hernández-576a10206"><img alt="LinkedIn icon" title="My LinkedIn Profile" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png"/></a></p>

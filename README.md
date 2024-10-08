@@ -22,29 +22,8 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="auto"/>
 </p>
 <br/>
-<div style="display: flex; justify-content: space-between;">
+### 🎖️ Take a look to my certifications!</h2>
 
-  <div style="width: 48%;">
-   <h2>🎖️ Take a look to my certifications!</h2>
-  </div>
-
-  <div style="width: 48%;">
-    <p align="left">
-     <a href="https://www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
-       <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="70" height="auto"/>
-     </a>
-    </p>
-  </div>
-
-</div>
-
-<img align="left" alt="Python" width="30px" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" style="max-width: 100%;"/>
-<img align="left" alt="Python" width="30px" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/python.png" width="70" height="auto"/>
-<p align="left">
-  <a href="https://www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
-    <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="70" height="auto"/>
-  </a>
-</p>
 
 
 

@@ -7,7 +7,11 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 I have hands-on experience in several programming languages, including Python, C, JavaScript, HTML, and CSS.
 
 <p align="left">
-	<a href="www.linkedin.com/in/america-lagos-hernández-576a10206"><img alt="LinkedIn icon" title="My LinkedIn Profile" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png"/></a></p>
+	<a href="www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
+  <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="200" height="auto"/>
+</a></p>
+
+	
 
 ### What I Do:
   + Software Development Engineer in Test (SDET): I have a strong foundation in test automation, writing efficient test scripts using tools like Cypress and Gherkin for Behavior-Driven Development (BDD). My goal is to ensure software reliability through thorough testing processes.
@@ -23,6 +27,7 @@ I have hands-on experience in several programming languages, including Python, C
 
 > I'm currently seeking opportunities as an SDET or Data Analyst, where I can apply my skills to enhance software quality or extract meaningful insights from data. Explore my repositories to see how I bring technical knowledge to life through code!
 <!--
+<a href="www.linkedin.com/in/america-lagos-hernández-576a10206"><img alt="LinkedIn icon" title="My LinkedIn Profile" src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png"/></a></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

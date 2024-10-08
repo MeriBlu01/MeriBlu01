@@ -9,8 +9,8 @@ I have hands-on experience in several programming languages, including Python, C
 [![My LinkedIn Profile](https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png)](www.linkedin.com/in/america-lagos-hernández-576a10206)
 
 <p align="left">
-	<a href="www.linkedin.com/in/america-lagos-hernández-576a10206" target="_self">
-  <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="200" height="auto"/>
+	<a href="www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
+  <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="100" height="auto"/>
 </a></p>
 
 	

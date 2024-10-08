@@ -25,13 +25,14 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 48%;">
-   <h1 style="color:blue;">This is a heading</h1>
+   <h2>🎖️ Take a look to my certifications!</h2>
   </div>
 
   <div style="width: 48%;">
-    <p>
-      This is the content for the second column. You can similarly write text, insert images, or add any other HTML content.  
-      Markdown elements like **bold**, *italic*, and [links](https://example.com) should also work.
+    <p align="left">
+     <a href="https://www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
+       <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="70" height="auto"/>
+     </a>
     </p>
   </div>
 

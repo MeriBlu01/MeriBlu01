@@ -16,6 +16,7 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  width="50" height="auto"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"  width="50" height="auto"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"  width="50" height="auto"/>
+ <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/cypress-icon-1024x1022-1sbqakuv.png" width="50" height="auto"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"  width="50" height="auto"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"  width="50" height="auto"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="auto"/>

@@ -7,7 +7,7 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
 ---
 
 ### 🧰 Languages & Tools
- 
+<br/>
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="auto"/> &nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"  width="50" height="auto"/> &nbsp;&nbsp;

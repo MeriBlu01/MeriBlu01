@@ -10,7 +10,7 @@ I have hands-on experience in several programming languages, including Python, C
 
 <p align="left">
 	<a href="www.linkedin.com/in/america-lagos-hernández-576a10206" target="_blank">
-  <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="100" height="auto"/>
+  <img src="https://portfolio-america-lagos.s3.amazonaws.com/icons-github-portfolio/linkedin.png" alt="My LinkedIn Profile" width="70" height="auto"/>
 </a></p>
 
 	

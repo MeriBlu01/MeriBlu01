@@ -46,9 +46,6 @@ Hi, I'm a Mechatronic Engineer with a passion for software development, cloud co
   + ***Data Analysis:*** Data wrangling, reporting, and visualization.
   + ***CI/CD:*** Familiar with tools like GitHub Actions to streamline development workflows.
 
-
-> I'm currently seeking opportunities as an SDET or Data Analyst, where I can apply my skills to enhance software quality or extract meaningful insights from data. Explore my repositories to see how I bring technical knowledge to life through code!
->
 > 📫 e-mail: 240296.alh@gmail.com
 <!--
 icons source: https://devicon.dev/
